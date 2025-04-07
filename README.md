@@ -1,4 +1,4 @@
-## Hi there 👋 Welcome to my github profile,
+## Hi there 👋 Welcome to my github profile
 I'm Arush Singh, a B.Tech (Computer Science And Engineering) Student at VIT Bhopal from Pune, India.
 
 I am a passionate Programmer and a lifelong learner. I like acquiring new skills, exploring new technology and playing Footbal. 
