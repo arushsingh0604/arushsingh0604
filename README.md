@@ -7,7 +7,7 @@ I am a passionate Programmer and a lifelong learner. I like acquiring new skills
 
 -👯 I’m looking to collaborate on building new projects
 
--😄 Pronouns: He/Him
+
 
 
 <!--
