@@ -7,7 +7,8 @@ I am a passionate Programmer and a lifelong learner. I like acquiring new skills
 
 -👯 I’m looking to collaborate on building new projects
 
-- 📫 How to reach me: arushsingh0604@gmail.com
+-📫 How to reach me: arushsingh0604@gmail.com
+
 
 
 
