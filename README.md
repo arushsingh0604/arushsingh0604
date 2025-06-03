@@ -1,7 +1,8 @@
 ## Hi there 👋 Welcome to my github profile
 I'm Arush Singh, a B.Tech (Computer Science And Engineering) final Year Student at VIT Bhopal from Pune, India.
 
-I am a passionate Programmer, Analyst and a lifelong learner. I like acquiring new skills, exploring new technologies, building network and playing Football. 
+I am a passionate Programmer, Analyst and a lifelong learner. 
+I like acquiring new skills, exploring new technologies, building network and playing Football. 
 
  -🌱 I’m currently learning Python, Data Science, AWS and DevOps
 
