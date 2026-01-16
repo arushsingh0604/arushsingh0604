@@ -4,7 +4,7 @@ I am a final-year **Computer Science and Engineering** student at **VIT Bhopal**
 
 ---
 
-### 💼 Professional Experience
+###  Professional Experience
 
 **Data Science & Analytics Intern | NexGen Analytics** * Leveraged **Python** and **Machine Learning** to solve complex real-world data challenges.
 
